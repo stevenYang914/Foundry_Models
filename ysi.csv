@@ -1,0 +1,658 @@
+Species,CAS,Type,SMILES,YSI,YSI_err
+isocetane,4390-04-9,alkanes,CC(CC(C)(C)C)CC(C)(C)CC(C)(C)C,128.0,6.4
+"1,4-cyclohexanedimethanol divinyl ether",17351-75-6,oxygenates,C=COCC1CCC(COC=C)CC1,130.5,6.5
+gamma-Undecalactone,104-67-6,esters,CCCCCCCC1CCC(=O)O1,58.2,2.9
+ethyl decanoate,110-38-3,esters,CCCCCCCCCC(=O)OCC,58.0,2.9
+butyl decanoate,30673-36-0,esters,CCCCCCCCCC(=O)OCCCC,82.6,4.1
+TR-1-069,,cyclic alkanes,CC(C)CCCC1CCC2CCCC2C1,155.4,7.8
+TR-1-277,,cyclic alkanes,CCC1CCC(CCCC(C)C)CC1,130.7,6.5
+TR-CMPD-6,,cyclic alkanes,CC(C)CCCC1CCC(C)C(C)C1,157.9,7.9
+Oxetane 1,,oxetanes,CCCCC1(CCCC)CCO1,74.7,3.7
+Oxetane 2,,oxetanes,CCCCCCC1CCO1,52.7,2.6
+Oxetane 3,,oxetanes,CCCCCCCCC1CCO1,67.1,3.4
+Oxetane 4,,oxetanes,CCCCCCCCCC1(C)CCO1,90.2,4.5
+Oxetane 8,,oxetanes,CCCCC1(CCCC)COC1,89.3,4.5
+Oxetane A,,oxetanes,CCCCCCCCCCC1CCO1,78.9,3.9
+Oxetane B,,oxetanes,CCCCCCC1(CC)CCO1,73.2,3.7
+Oxetane C,,oxetanes,CCCCCC1(CCC)CCO1,87.5,4.4
+methyl Lactate butyl ether,,esters,CCCCOC(C)C(=O)OC,26.3,1.3
+methyl lactate hexyl ether,,esters,CCCCCCOC(C)C(=O)OC,41.6,2.1
+isobutyl lactate isobutyl ether,,esters,CC(C)COC(=O)C(C)OCC(C)C,68.1,3.4
+isoamyl lactate isoamyl ether,,esters,CC(C)CCOC(=O)C(C)OCCC(C)C,74.5,3.7
+ethyl lactate octyl ether,,esters,CCCCCCCCOC(C)C(=O)OCC,51.7,2.6
+methyl lactate cyclopropyl ether,,esters,COC(=O)C(C)OCC1CC1,43.5,2.2
+"ethyl 3,3 diethyoxy propionate",,esters,CCOC(=O)CC(OCC)OCC,27.4,1.4
+diisoamyl hydroxybutyrate,,esters,CC(C)CCOCCCC(=O)OCCC(C)C,81.7,4.1
+diisoamyl glycolate,,esters,CC(C)CCOCC(=O)OCCC(C)C,70.6,3.5
+n-hexadecane,544-76-3,,CCCCCCCCCCCCCCCC,88.258,4.413
+n-pentadecane,629-62-9,,CCCCCCCCCCCCCCC,84.116,4.206
+n-tetradecane,629-59-4,,CCCCCCCCCCCCCC,78.431,3.922
+n-tridecane,629-50-5,,CCCCCCCCCCCCC,72.513,3.626
+n-dodecane,112-40-3,,CCCCCCCCCCCC,67.055,3.353
+n-undecane,1120-21-4,,CCCCCCCCCCC,60.089,3.004
+n-decane,124-18-5,,CCCCCCCCCC,54.006,2.7
+2-~{tert}-butylfuran,,,CC(C)(C)c1ccco1,107.5,
+hex-2-yne,764-35-2,,CC#CCCC,66.9,
+hept-2-yne,1119-65-9,,CC#CCCCC,75.2,
+oct-2-yne,2809-67-8,,CC#CCCCCC,81.2,
+"2,6,10-trimethyldodecane",3891-98-3,,CCC(C)CCCC(C)CCCC(C)C,109.8,
+1-pentoxypentane,,,CCCCCOCCCCC,49.8,
+2-(2-ethoxyethoxy)ethanol,111-90-0,,CCOCCOCCO,15.1,
+2-[2-(2-methoxypropoxy)propoxy]propan-1-ol,,,COC(C)COC(C)COC(C)CO,40.6,
+nonan-2-ol,628-99-9,,CCCCCCCC(C)O,47.3,
+hexyl hexanoate,,,CCCCCCOC(=O)CCCCC,66.7,
+methyl decanoate,,,CCCCCCCCCC(=O)OC,50.4,
+4-butoxyheptane,,,CCCCOC(CCC)CCC,60.3,
+6-ethoxyundecane,,,CCCCCC(CCCCC)OCC,68.5,
+4-hexoxyheptane,,,CCCCCCOC(CCC)CCC,73.3,
+methyl undecanoate,,,CCCCCCCCCCC(=O)OC,58.5,
+2-phenylacetaldehyde,122-78-1,,O=CCc1ccccc1,217.6,
+1-phenylethanone,98-86-2,,CC(=O)c1ccccc1,130.8,
+2-methylfuran,534-22-5,,Cc1ccco1,41.5,
+2-ethylfuran,3208-16-0,,CCc1ccco1,46.9,
+2-propylfuran,4229-91-8,,CCCc1ccco1,53.8,
+2-butylfuran,4466-24-4,,CCCCc1ccco1,58.6,
+"2,3-dimethylfuran",14920-89-9,,Cc1ccoc1C,54.6,
+"2,5-dimethylfuran",625-86-5,,Cc1ccc(C)o1,55.1,
+oxolane,109-99-9,,C1CCOC1,20.1,
+"2,3-dihydrofuran",1191-99-7,,C1=COCC1,24.942,
+"2,5-dihydrofuran",1708-29-8,,C1=CCOC1,25.115,
+2-methyloxolane,96-47-9,,CC1CCCO1,30.559,
+"2,5-dimethyloxolane",1003-38-9,,CC1CCC(C)O1,43.4,
+furan-2-carbaldehyde,98-01-1,,O=Cc1ccco1,28.3,
+furan-2-ylmethanol,98-00-0,,OCc1ccco1,38.064,
+5-methylfuran-2-carbaldehyde,620-02-0,,Cc1ccc(C=O)o1,44.116,
+anisole,100-66-3,,COc1ccccc1,111.0,
+benzyl alcohol,100-51-6,,OCc1ccccc1,189.0,
+benzaldehyde,100-52-7,,O=Cc1ccccc1,119.0,
+ethylbenzene,100-41-4,,CCc1ccccc1,216.0,
+phenetole,103-73-1,,CCOc1ccccc1,112.0,
+benzyl methyl ether,538-86-3,,COCc1ccccc1,202.0,
+1-phenylethanol,98-85-1,,CC(O)c1ccccc1,142.0,
+2-phenylethanol,60-12-8,,OCCc1ccccc1,207.0,
+2-xylene,95-47-6,,Cc1ccccc1C,200.0,
+4-xylene,106-42-3,,Cc1ccc(C)cc1,202.0,
+2-methylanisole,578-58-5,,COc1ccccc1C,122.0,
+3-methylanisole,100-84-5,,COc1cccc(C)c1,126.0,
+4-methylanisole,104-93-8,,COc1ccc(C)cc1,123.0,
+3-methyl benzyl alcohol,587-03-1,,Cc1cccc(CO)c1,243.0,
+"2,4-dimethylphenol",105-67-9,,Cc1ccc(O)c(C)c1,144.0,
+Aniline,62-53-3,,Nc1ccccc1,84.569,
+Hexylamine,111-26-2,,CCCCCCN,26.631,
+Pyridine,110-86-1,,c1ccncc1,34.632,
+Piperidine,110-89-4,,C1CCNCC1,23.056,
+Morpholine,110-91-8,,C1COCCN1,8.768,
+Pyrrolidine,123-75-1,,C1CCNC1,13.843,
+Diisopropylamine,108-18-9,,CC(C)NC(C)C,32.007,
+tert-butylamine,75-64-9,,CC(C)(C)N,21.097,
+n-butylamine,109-73-9,,CCCCN,15.042,
+isobutylamine,78-81-9,,CC(C)CN,23.365,
+sec-butylamine,13952-84-6,,CCC(C)N,18.558,
+N-isopropylmethylamine,4747-21-1,,CNC(C)C,18.105,
+2-methylpyridine,109-06-8,,Cc1ccccn1,64.971,
+3-methylpyridine,108-99-6,,Cc1cccnc1,66.056,
+4-methylpyridine,108-89-4,,Cc1ccncc1,65.652,
+o-toluidine, 95-53-4,,Cc1ccccc1N,114.426,
+m-toluidine,108-44-1,,Cc1cccc(N)c1,119.647,
+2-methylpiperidine,109-05-7,,CC1CCCCN1,27.311,
+3-methylpiperidine,626-56-2,,CC1CCCNC1,33.626,
+Dipropylamine,142-84-7,,CCCNCCC,22.455,
+"3,3-dimethylbutylamine",15673-00-4,,CC(C)(C)CCN,40.791,
+"1,2,3,6-tetrahydropyridine",694-05-3,,C1=CCNCC1,32.927,
+Propargylamine,2450-71-7,,C#CCN,25.354,
+"N,N-dimethylallylamine",2155-94-4,,C=CCN(C)C,34.61,
+allylamine,107-11-9,,C=CCN,30.791,
+formamide,75-12-7,,NC=O,-3.102,
+N-ethylformamide,627-45-2,,CCNC=O,4.309,
+N-(1-pentyl)formamide,2591-79-9,,CCCCCNC=O,19.138,
+N-(phenethyl)formamide,23069-99-0,,O=CNCCc1ccccc1,216.783,
+quinoline,91-22-5,,c1ccc2ncccc2c1,214.599,
+dibutylamine,111-92-2,,CCCCNCCCC,31.274,
+tributylamine,102-82-9,,CCCCN(CCCC)CCCC,53.383,
+"N,N-dimethylformamide",68-12-2,,CN(C)C=O,6.55,
+"N,N-dimethylacetamide",127-19-5,,CC(=O)N(C)C,9.689,
+quinaldine,91-63-4,,Cc1ccc2ccccc2n1,311.187,
+N-butylaniline,1126-78-9,,CCCCNc1ccccc1,124.486,
+2-ethyl hexyl nitrate,27247-96-7,,CCCCC(CC)CO[N+](=O)[O-],39.156,
+n-butyl nitrite,544-16-1,,CCCCON=O,11.209,
+tert-butyl nitrite,540-80-7,,CC(C)(C)ON=O,11.193,
+Isopropyl nitrate ,‎1712-64-7,,CC(C)O[N+](=O)[O-],1.053,
+1-methyl indole,603-76-9,,Cn1ccc2ccccc21,220.118,
+indoline,496-15-1,,c1ccc2c(c1)CCN2,176.053,
+benzophenone imine,1013-88-3,,N=C(c1ccccc1)c1ccccc1,447.571,
+"1,5-Diazabicyclo[4.3.0]non-5-ene",3001-72-7,,C1CN=C2CCCN2C1,27.892,
+"1,2,3,4-tetrahydroquinoline",635-46-1,,c1ccc2c(c1)CCCN2,155.064,
+Acetonitrile,75-05-8,,CC#N,1.029,
+Acrylonitrile,107-13-1,,C=CC#N,12.856,
+Pyridazine,289-80-5,,c1ccnnc1,15.439,
+1-acetyl indole,576-15-8,,CC(=O)n1ccc2ccccc21,187.078,
+Azetidine,503-29-7,,C1CNC1,6.102,
+"2,2,4,4-tetramethyl-3-pentanone imine",29097-52-7,,CC(C)(C)C(=N)C(C)(C)C,62.299,
+N-methylpropionamide,1187-58-2,,CCC(=O)NC,7.023,
+"1,8-Diazabicyclo[5.4.0]undec-7-ene",6674-22-2,,C1CCC2=NCCCN2CC1,45.913,
+Nitrobenzene,98-95-3,,O=[N+]([O-])c1ccccc1,98.946,
+Pyrrole,109-97-7,,c1cc[nH]c1,22.915,
+benzylamine,100-46-9,,NCc1ccccc1,196.821,
+Valeronitrile,110-59-8,,CCCCC#N,21.658,
+N-benzylmethylamine,103-67-3,,CNCc1ccccc1,193.046,
+N-ethylaniline,103-69-5,,CCNc1ccccc1,110.812,
+N-methylaniline,100-61-8,,CNc1ccccc1,104.171,
+Propanenitrile,107-12-0,,CCC#N,11.405,
+1-methylbenzylamine,618-36-0,,CC(N)c1ccccc1,143.88,
+Butryonitrile,109-74-0,,CCCC#N,15.775,
+Acrolein dimethyl acetal,6044-68-4,,C=CC(OC)OC,15.5,
+Acrolein diethyl acetal,3054-95-3,,C=CC(OCC)OCC,26.6,
+dibutoxymethane,2568-90-3,,CCCCOCOCCCC,47.7,
+"DL-1,2-isopropylideneglycerol",100-79-8,,CC1(C)OCC(CO)O1,18.7,
+"2-methyl-1,3-dioxolane",497-26-7,,CC1OCCO1,11.1,
+"2,2-dimethyl-1,3-dioxolane",2916-31-6,,CC1(C)OCCO1,17.4,
+"2,2,4-trimethyl-1,3-dioxolane",1193-11-9,,CC1COC(C)(C)O1,25.6,
+"2‐ethyl‐2‐methyl‐1,3‐dioxolane",126-39-6,,CCC1(C)OCCO1,21.1,
+"4,5‐dimethyl‐2‐(pentan‐3‐yl)‐1,3‐dioxolane",,,CCC(CC)C1OC(C)C(C)O1,57.8,
+"2‐(heptan‐3‐yl)‐4,5‐dimethyl‐1,3‐dioxolane",61732-91-0,,CCCCC(CC)C1OC(C)C(C)O1,68.5,
+"4,5‐dimethyl‐2‐propyl‐1,3‐dioxolane",6414-34-2,,CCCC1OC(C)C(C)O1,36.5,
+"4,5‐dimethyl‐2‐pentyl‐1,3‐dioxolane",155639-75-1,,CCCCCC1OC(C)C(C)O1,48.7,
+"2‐heptyl‐4,5‐dimethyl‐1,3‐dioxolane",61732-90-9,,CCCCCCCC1OC(C)C(C)O1,63.2,
+"1,1‐diethoxyhexane",3658-93-3,,CCCCCC(OCC)OCC,42.9,
+"1,1‐diethoxyoctane",5660-81-1,,CCCCCCCC(OCC)OCC,59.6,
+"1,2-diphenylbenzene",84-15-1,aromatic,c1ccc(-c2ccccc2-c2ccccc2)cc1,1338.9,50.0
+cyclopenta[def]phenanthrene,203-64-5,aromatic,c1cc2c3c(c1)ccc1cccc(c13)C2,1312.8,73.5
+fluoranthene,206-44-0,aromatic,c1ccc2c(c1)-c1cccc3cccc-2c13,1291.9,72.4
+"1,3-diphenylbenzene",92-06-8,aromatic,c1ccc(-c2cccc(-c3ccccc3)c2)cc1,1286.6,72.3
+pyrene,129-00-0,aromatic,c1cc2ccc3cccc4ccc(c1)c2c34,1250.1,70.1
+4-benzyl-biphenyl,613-42-3,aromatic,c1ccc(Cc2ccc(-c3ccccc3)cc2)cc1,1192.6,67.2
+9-methylanthracene,779-02-2,aromatic,Cc1c2ccccc2cc2ccccc12,1182.1,44.1
+1-phenylnaphthalene,605-02-7,aromatic,c1ccc(-c2cccc3ccccc23)cc1,1103.7,41.4
+triphenylmethane,519-73-3,aromatic,c1ccc(C(c2ccccc2)c2ccccc2)cc1,1093.3,61.5
+dibenzosuberane,833-48-7,aromatic,c1ccc2c(c1)CCc1ccccc1C2,1067.2,40.1
+1-methylfluorene,1730-37-6,aromatic,Cc1cccc2c1Cc1ccccc1-2,1014.9,38.2
+"9,10-dihydroanthracene",613-31-0,aromatic,c1ccc2c(c1)Cc1ccccc1C2,988.8,37.0
+fluorene,86-73-7,aromatic,c1ccc2c(c1)Cc1ccccc1-2,988.8,37.0
+"2,2Í-dimethylbiphenyl",605-39-0,aromatic,Cc1ccccc1-c1ccccc1C,983.5,36.9
+anthracene,120-12-7,aromatic,c1ccc2cc3ccccc3cc2c1,962.6,103.7
+"9,10-dihydrophenanthrene",776-35-2,aromatic,c1ccc2c(c1)CCc1ccccc1-2,952.2,35.7
+phenanthrene,85-01-8,aromatic,c1ccc2c(c1)ccc1ccccc12,941.7,35.1
+2-phenylindene,4505-48-0,aromatic,C1=C(c2ccccc2)Cc2ccccc21,931.3,35.0
+"3,3Í-dimethylbiphenyl",612-75-9,aromatic,Cc1cccc(-c2cccc(C)c2)c1,931.3,52.9
+"4,4Í-dimethylbiphenyl",613-33-2,aromatic,Cc1ccc(-c2ccc(C)cc2)cc1,899.9,51.2
+2-methylbiphenyl,643-58-3,aromatic,Cc1ccccc1-c1ccccc1,863.3,32.5
+4-pentylbiphenyl,7116-96-3,aromatic,CCCCCc1ccc(-c2ccccc2)cc1,863.3,32.5
+4-butylbiphenyl,37909-95-8,aromatic,CCCCc1ccc(-c2ccccc2)cc1,847.7,31.8
+4-propylbiphenyl,10289-45-9,aromatic,CCCc1ccc(-c2ccccc2)cc1,821.5,30.6
+4-ethylbiphenyl,5707-44-8,aromatic,CCc1ccc(-c2ccccc2)cc1,811.1,30.5
+"1,1-diphenylpropane",1530-03-6,aromatic,CCC(c1ccccc1)c1ccccc1,805.8,30.5
+acenaphthene,83-32-9,aromatic,c1cc2c3c(cccc3c1)CC2,805.8,30.5
+"1,5-dimethylnaphthalene",571-61-9,aromatic,Cc1cccc2c(C)cccc12,779.7,29.3
+3-methylbiphenyl,643-93-6,aromatic,Cc1cccc(-c2ccccc2)c1,779.7,29.3
+"2,6-dimethylnaphthalene",581-42-0,aromatic,Cc1ccc2cc(C)ccc2c1,774.5,29.2
+4-methylbiphenyl,644-08-6,aromatic,Cc1ccc(-c2ccccc2)cc1,769.3,28.7
+"trans 1,2-diphenylpropene",833-81-8,aromatic,C/C(=C\c1ccccc1)c1ccccc1,753.6,28.5
+"2,3-dimethylnaphthalene",581-40-8,aromatic,Cc1cc2ccccc2cc1C,748.4,28.0
+"1,1-diphenylethylene",530-48-3,aromatic,C=C(c1ccccc1)c1ccccc1,743.1,28.0
+"1,2-dimethylnaphthalene",573-98-8,aromatic,Cc1ccc2ccccc2c1C,743.1,28.0
+"1,3-dimethylnaphthalene",575-41-7,aromatic,Cc1cc(C)c2ccccc2c1,743.1,28.0
+1-ethylnaphthalene,1127-76-0,aromatic,CCc1cccc2ccccc12,732.7,27.4
+"2,2-diphenylpropane",778-22-3,aromatic,CC(C)(c1ccccc1)c1ccccc1,727.5,27.3
+"1,4-dimethylnaphthalene",571-58-4,aromatic,Cc1ccc(C)c2ccccc12,711.8,26.7
+2-ethylnaphthalene,939-27-5,aromatic,CCc1ccc2ccccc2c1,701.3,26.6
+1-methylnaphthalene,90-12-0,aromatic,Cc1cccc2ccccc12,649.1,24.7
+2-methylnaphthalene,91-57-6,aromatic,Cc1ccc2ccccc2c1,649.1,24.7
+diphenylacetylene,501-65-5,aromatic,C(#Cc1ccccc1)c1ccccc1,638.6,24.1
+biphenyl,92-52-4,aromatic,c1ccc(-c2ccccc2)cc1,612.5,22.9
+diphenylmethane,101-81-5,aromatic,c1ccc(Cc2ccccc2)cc1,612.5,22.9
+"1,5-dimethyltetralin",21564-91-0,aromatic,Cc1cccc2c1CCCC2C,607.3,22.9
+"cis 1,2-diphenylethylene",645-49-8,aromatic,C(=C\c1ccccc1)\c1ccccc1,602.0,22.8
+"trans 1,2-diphenylethylene",103-30-0,aromatic,C(=C/c1ccccc1)\c1ccccc1,602.0,34.8
+hexamethylbenzene,87-85-4,aromatic,Cc1c(C)c(C)c(C)c(C)c1C,565.4,21.5
+"4,4Í-dimethylbibenzyl",538-39-6,aromatic,Cc1ccc(CCc2ccc(C)cc2)cc1,549.8,20.9
+"1-ethynyl-2,5-dimethylbenzene",74331-70-7,aromatic,C#Cc1cc(C)ccc1C,512.7,19.6
+2-methylindene,2177-47-1,aromatic,CC1=Cc2ccccc2C1,500.1,19.1
+azulene,275-51-4,aromatic,c1ccc2cccc-2cc1,492.3,19.0
+1-ethynyl-2-methylbenzene,766-47-2,aromatic,C#Cc1ccccc1C,485.0,18.5
+pentamethylbenzene,700-12-9,aromatic,Cc1cc(C)c(C)c(C)c1C,481.8,18.4
+(1-butynyl)-benzene,622-76-4,aromatic,CCC#Cc1ccccc1,480.8,18.4
+bibenzyl,103-29-7,aromatic,c1ccc(CCc2ccccc2)cc1,471.4,17.9
+"1-ethenyl-2,5-dimethylbenzene",2039-89-6,aromatic,C=Cc1cc(C)ccc1C,469.3,17.8
+indene,95-13-6,aromatic,C1=Cc2ccccc2C1,467.7,17.8
+"1,2-dihydronaphthalene",447-53-0,aromatic,C1=Cc2ccccc2CC1,466.1,17.8
+naphthalene,91-20-3,aromatic,c1ccc2ccccc2c1,466.1,8.4
+(2-propynyl)-benzene,10147-11-2,aromatic,C#CCc1ccccc1,443.7,17.1
+1-ethynyl-4-ethylbenzene,40307-11-7,aromatic,C#Cc1ccc(CC)cc1,442.6,17.1
+indane,496-11-7,aromatic,c1ccc2c(c1)CCC2,439.5,16.6
+(2-methyl-1-propenyl)-benzene,768-49-0,aromatic,CC(C)=Cc1ccccc1,436.9,16.6
+(1-propynyl)-benzene,673-32-5,aromatic,CC#Cc1ccccc1,427.5,16.5
+"1,3-diphenylpropane",1081-75-0,aromatic,c1ccc(CCCc2ccccc2)cc1,413.9,15.9
+4-tert-butyltoluene,98-51-1,aromatic,Cc1ccc(C(C)(C)C)cc1,410.8,15.9
+1-ethenyl-2-methylbenzene,611-15-4,aromatic,C=Cc1ccccc1C,408.1,15.9
+"1,2,3,4-tetramethylbenzene",488-23-3,aromatic,Cc1ccc(C)c(C)c1C,393.0,15.3
+"1,2,4,5-tetramethylbenzene",95-93-2,aromatic,Cc1cc(C)c(C)cc1C,393.0,15.3
+"1,2,3,5-tetramethylbenzene",527-53-7,aromatic,Cc1cc(C)c(C)c(C)c1,386.2,14.8
+1-ethynyl-3-methylbenzene,766-82-5,aromatic,C#Cc1cccc(C)c1,384.6,14.7
+cyclohexylbenzene,827-52-1,aromatic,c1ccc(C2CCCCC2)cc1,377.3,14.7
+"1,2-diethylbenzene",135-01-3,aromatic,CCc1ccccc1CC,376.3,14.7
+1-ethynyl-4-methylbenzene,766-97-2,aromatic,C#Cc1ccc(C)cc1,374.7,14.7
+"1,3-diisopropylbenzene",99-62-7,aromatic,CC(C)c1cccc(C(C)C)c1,353.3,14.0
+(1-propenyl)-benzene,637-50-3,aromatic,C/C=C/c1ccccc1,352.2,13.5
+cyclopropylbenzene,873-49-4,aromatic,c1ccc(C2CC2)cc1,343.9,13.5
+tetralin,119-64-2,aromatic,c1ccc2c(c1)CCCC2,336.0,13.4
+1-isopropyl-4-methylbenzene,99-87-6,aromatic,Cc1ccc(C(C)C)cc1,330.3,12.9
+n-tetradecylbenzene,1459-10-5,aromatic,CCCCCCCCCCCCCCc1ccccc1,330.3,20.2
+1-ethenyl-3-methylbenzene,100-80-1,aromatic,C=Cc1cccc(C)c1,322.4,12.8
+"1,3-diethylbenzene",141-93-5,aromatic,CCc1cccc(CC)c1,320.9,12.8
+diphenylformaldehyde,119-61-9,aromatic,O=C(c1ccccc1)c1ccccc1,319.8,19.6
+n-tridecylbenzene,123-02-4,aromatic,CCCCCCCCCCCCCc1ccccc1,319.8,12.8
+1-ethenyl-4-methylbenzene,622-97-9,aromatic,C=Cc1ccc(C)cc1,318.8,12.8
+"1,2,3-trimethylbenzene",526-73-8,aromatic,Cc1cccc(C)c1C,315.1,12.3
+(2-propenyl)-benzene,300-57-2,aromatic,C=CCc1ccccc1,310.9,12.3
+"1,3,5-trimethylbenzene",108-67-8,aromatic,Cc1cc(C)cc(C)c1,310.9,12.3
+"1,2,4-trimethylbenzene",95-63-6,aromatic,Cc1ccc(C)c(C)c1,308.3,12.2
+n-dodecylbenzene,123-01-3,aromatic,CCCCCCCCCCCCc1ccccc1,304.1,12.2
+(3-butynyl)-benzene,16520-62-0,aromatic,C#CCCc1ccccc1,298.9,11.7
+n-undecylbenzene,6742-54-7,aromatic,CCCCCCCCCCCc1ccccc1,293.7,11.7
+"(1,1-dimethylethyl)-benzene",98-06-6,aromatic,CC(C)(C)c1ccccc1,291.1,11.6
+(1-methylethenyl)-benzene,98-83-9,aromatic,C=C(C)c1ccccc1,286.4,11.6
+n-decylbenzene,104-72-3,aromatic,CCCCCCCCCCc1ccccc1,283.2,11.6
+n-nonylbenzene,1081-77-2,aromatic,CCCCCCCCCc1ccccc1,283.2,11.6
+1-ethyl-3-methylbenzene,620-14-4,aromatic,CCc1cccc(C)c1,278.0,11.1
+(3-butenyl)-benzene,768-56-9,aromatic,C=CCCc1ccccc1,275.9,11.1
+"(2,2-dimethylpropyl)-benzene",1007-26-7,aromatic,CC(C)(C)Cc1ccccc1,272.8,11.0
+"1,4-diethylbenzene",105-05-5,aromatic,CCc1ccc(CC)cc1,270.7,11.0
+1-ethyl-2-methylbenzene,611-14-3,aromatic,CCc1ccccc1C,267.0,11.0
+(3-methylbutyl)-benzene,2049-94-7,aromatic,CC(C)CCc1ccccc1,258.1,10.5
+(2-methylpropyl)-benzene,538-93-2,aromatic,CC(C)Cc1ccccc1,257.6,10.5
+1-ethyl-4-methylbenzene,622-96-8,aromatic,CCc1ccc(C)cc1,257.1,10.5
+n-heptylbenzene,1078-71-3,aromatic,CCCCCCCc1ccccc1,257.1,10.5
+n-octylbenzene,2189-60-8,aromatic,CCCCCCCCc1ccccc1,257.1,10.5
+n-pentylbenzene,538-68-1,aromatic,CCCCCc1ccccc1,255.0,10.5
+n-hexylbenzene,1077-16-3,aromatic,CCCCCCc1ccccc1,246.7,9.9
+n-butylbenzene,104-51-8,aromatic,CCCCc1ccccc1,245.1,9.9
+diphenyl ether,101-84-8,aromatic,c1ccc(Oc2ccccc2)cc1,241.4,9.9
+propylbenzene,103-65-1,aromatic,CCCc1ccccc1,235.7,9.9
+"1,3-dimethylbenzene",108-38-3,aromatic,Cc1cccc(C)c1,221.6,9.3
+phenylacetylene,536-74-3,aromatic,C#Cc1ccccc1,216.3,9.3
+(1-methylpropyl)-benzene,135-98-8,aromatic,CCC(C)c1ccccc1,199.1,8.7
+methylcyclopentadiene dimer,26472-00-4,aromatic,CC1=CC2C3CC(C=C3C)C2C1,189.2,8.2
+isopropylbenzene,98-82-8,aromatic,CC(C)c1ccccc1,187.6,8.2
+"1-methyl-1,4-cyclohexadiene",4313-57-9,aliphatic,CC1=CCC=CC1,175.6,7.7
+styrene,100-42-5,aromatic,C=Cc1ccccc1,174.0,7.7
+toluene,108-88-3,aromatic,Cc1ccccc1,170.9,7.7
+dicyclopentadiene,77-73-6,aromatic,C1=CC2C3C=CC(C3)C2C1,157.8,7.2
+bromobenzene,108-86-1,aromatic,Brc1ccccc1,137.4,6.7
+chlorobenzene,108-90-7,aromatic,Clc1ccccc1,128.0,6.7
+cyanobenzene,100-47-0,aromatic,N#Cc1ccccc1,115.0,6.3
+fluorobenzene,462-06-6,aromatic,Fc1ccccc1,106.6,5.8
+cis + trans decahydronaphthalene,91-17-8,aromatic,C1CCC2CCCCC2C1,105.5,5.8
+"1,4-cyclohexadiene",628-41-1,aliphatic,C1=CCC=CC1,101.4,5.8
+benzene,71-43-2,aromatic,c1ccccc1,100.3,5.8
+bicyclohexyl,92-51-3,aromatic,C1CCC(C2CCCCC2)CC1,117.1,5.9
+"2,2,4,6,6-pentamethylheptane",13475-82-6,linear alkanes,CC(CC(C)(C)C)CC(C)(C)C,99.3,2.9
+"1,3-cyclohexadiene",592-57-4,aliphatic,C1=CCCC=C1,98.8,5.8
+1-methylcyclopentene,693-89-0,cyclic alkenes,CC1=CCCC1,96.5,2.8
+1-dodecene,112-41-4,alkenes,C=CCCCCCCCCCC,90.3,2.6
+"2,4,4-trimethyl-2-pentene",107-40-4,alkenes,CC(C)=CC(C)(C)C,89.3,2.6
+"2,3,4-trimethyl-2-pentene",565-77-5,alkenes,CC(C)=C(C)C(C)C,87.0,2.5
+"1,2,4-trimethylcyclohexane",2234-75-5,cyclic alkanes,CC1CCC(C)C(C)C1,82.8,2.4
+butylcyclohexane,1678-93-9,cyclic alkanes,CCCCC1CCCCC1,76.8,2.2
+1-decene,872-05-9,alkenes,C=CCCCCCCCC,74.8,2.2
+isopropylcyclohexane,696-29-7,cyclic alkanes,CC(C)C1CCCCC1,74.7,2.2
+1-octyne,629-05-0,alkynes/alkadienes,C#CCCCCCC,74.1,2.2
+"2,3,3-trimethyl-1-butene",594-56-9,alkenes,C=C(C)C(C)(C)C,72.8,2.2
+cyclopentene,142-29-0,cyclic alkenes,C1=CCCC1,70.2,2.1
+propylcyclohexane,1678-92-8,cyclic alkanes,CCCC1CCCCC1,69.2,2.1
+"2,4,4-trimethyl-1-pentene",107-39-1,alkenes,C=C(C)CC(C)(C)C,68.5,2.1
+"1,1-dimethylcyclohexane",590-66-9,cyclic alkanes,CC1(C)CCCCC1,67.9,2.1
+"2-methyl-1,5-hexadiene",4049-81-4,alkynes/alkadienes,C=CCCC(=C)C,67.7,2.1
+"1,3-dimethylcyclohexane",591-21-9,cyclic alkanes,CC1CCCC(C)C1,67.6,2.1
+"1,4-dimethylcyclohexane",589-90-2,cyclic alkanes,CC1CCC(C)CC1,67.6,2.1
+"2,2,4,4-tetramethyl-3-pentanone",815-24-7,saturated alkanone,CC(C)(C)C(=O)C(C)(C)C,65.8,2.0
+"cis 1,2-dimethylcyclohexane",1/4/2207,cyclic alkanes,C[C@H]1CCCC[C@H]1C,65.2,2.0
+2-methyl-2-heptene,627-97-4,alkenes,CCCCC=C(C)C,64.5,2.0
+1-nonene,124-11-8,alkenes,C=CCCCCCCC,64.4,2.0
+isoamyl ether,544-01-4,saturated ethers,CC(C)CCOCCC(C)C,63.6,2.0
+"2,3-dimethyl-2-butene",563-79-1,alkenes,CC(C)=C(C)C,62.4,2.0
+"3,5,5-trimethylhexanal",5435-64-3,saturated aldehyde,CC(CC=O)CC(C)(C)C,62.3,2.0
+methyl cyclopentyl ether,5614-37-9,saturated ethers,COC1CCCC1,62.3,2.0
+"2,2,4-trimethylpentane",540-84-1,linear alkanes,CC(C)CC(C)(C)C,61.7,2.0
+"4,4-dimethyl-1-pentene",762-62-9,alkenes,C=CCC(C)(C)C,61.4,2.0
+"2,3,4-trimethylpentane",565-75-3,linear alkanes,CC(C)C(C)C(C)C,60.9,2.0
+ethylcyclohexane,1678-91-7,cyclic alkanes,CCC1CCCCC1,60.7,2.0
+"2,3-dimethylheptane",3074-71-3,linear alkanes,CCCCC(C)C(C)C,60.2,2.0
+3-ethyl-2-pentene,816-79-5,alkenes,CC=C(CC)CC,59.8,2.0
+trans 4-octene,14850-23-8,alkenes,CCC/C=C/CCC,59.8,2.0
+"2,4,4-trimethyl-1-pentanol",16325-63-6,saturated alcohols,CC(CO)CC(C)(C)C,59.0,2.0
+trans 3-octene,14919-01-8,alkenes,CC/C=C/CCCC,58.8,2.0
+ethylcyclopentane,1640-89-7,cyclic alkanes,CCC1CCCC1,58.6,2.0
+cyclooctane,292-64-8,cyclic alkanes,C1CCCCCCC1,57.7,2.0
+trans 2-octene,13389-42-9,alkenes,C/C=C/CCCCC,56.7,2.0
+2-methyl-1-heptene,15870-10-7,alkenes,C=C(C)CCCCC,56.6,2.0
+"2,4-dimethylhexane",589-43-5,linear alkanes,CCC(C)CC(C)C,56.1,2.0
+"2,5-dimethylhexane",592-13-2,linear alkanes,CC(C)CCC(C)C,56.1,2.0
+1-octene,111-66-0,alkenes,C=CCCCCCC,56.0,2.0
+"2,6-dimethyl-4-heptanone",108-83-8,saturated alkanone,CC(C)CC(=O)CC(C)C,55.8,2.0
+4-methyl-1-hexene,3769-23-1,alkenes,C=CCC(C)CC,55.8,2.0
+"2,2,3-trimethylbutane",464-06-2,linear alkanes,CC(C)C(C)(C)C,55.3,2.0
+"3,4-dimethylhexane",583-48-2,linear alkanes,CCC(C)C(C)CC,55.2,2.0
+2-pentyne,627-21-4,alkynes/alkadienes,CC#CCC,54.7,2.0
+cis 4-methyl-2-pentene,691-38-3,alkenes,C/C=C\C(C)C,54.1,2.0
+sec-butyl ether,6863-58-7,saturated ethers,CCC(C)OC(C)CC,54.0,2.0
+3-methyl-2-pentene,922-61-2,alkenes,C/C=C(\C)CC,53.7,2.0
+2-methyl-2-pentene,625-27-4,alkenes,CCC=C(C)C,53.6,2.0
+methylcyclohexane,108-87-2,cyclic alkanes,CC1CCCCC1,53.6,2.0
+trans 3-heptene,14686-14-7,alkenes,CC/C=C/CCC,53.5,2.0
+"2,3-dimethyl-1-butene",563-78-0,alkenes,C=C(C)C(C)C,53.4,2.0
+"3,3-dimethyl-1-butene",558-37-2,alkenes,C=CC(C)(C)C,53.1,2.0
+"2,2-dimethylhexane",590-73-8,linear alkanes,CCCCC(C)(C)C,52.8,2.0
+decanal,112-31-2,saturated aldehyde,CCCCCCCCCC=O,52.8,2.0
+2-decanone,693-54-9,saturated alkanone,CCCCCCCCC(C)=O,51.9,2.0
+cis 2-heptene,6443-92-1,alkenes,C/C=C\CCCC,50.8,2.0
+2-propyl-1-pentanol,58175-57-8,saturated alcohols,CCCC(CO)CCC,50.5,2.0
+2-ethyl-1-hexanol,104-76-7,saturated alcohols,CCCCC(CC)CO,50.4,2.0
+methylcyclopentane,96-37-7,cyclic alkanes,CC1CCCC1,50.3,2.0
+3-decanone,928-80-3,saturated alkanone,CCCCCCCC(=O)CC,50.2,2.0
+4-methyl-1-pentene,691-37-2,alkenes,C=CCC(C)C,50.2,2.0
+n-nonane,111-84-2,linear alkanes,CCCCCCCCC,50.1,2.0
+cycloheptane,291-64-5,cyclic alkanes,C1CCCCCC1,50.0,2.0
+"2,4-dimethylpentane",108-08-7,linear alkanes,CC(C)CC(C)C,49.6,2.0
+"2,3-dimethylpentane",565-59-3,linear alkanes,CCC(C)C(C)C,49.4,2.0
+2-methylheptane,592-27-8,linear alkanes,CCCCCC(C)C,49.4,2.0
+2-methyl-1-hexene,2/6/6094,alkenes,C=C(C)CCCC,49.1,2.0
+3-methylheptane,589-81-1,linear alkanes,CCCCC(C)CC,48.7,2.0
+1-heptene,592-76-7,alkenes,C=CCCCCC,48.4,2.0
+2-butylhexanal,18459-51-3,saturated aldehyde,CCCCC(C=O)CCCC,48.2,2.0
+4-methylheptane,589-53-7,linear alkanes,CCCC(C)CCC,48.1,2.0
+"3,3-dimethylpentane",562-49-2,linear alkanes,CCC(C)(C)CC,47.7,2.0
+"2,2-dimethylpentane",590-35-2,linear alkanes,CCCC(C)(C)C,47.4,2.0
+1-pentyne,627-19-0,alkynes/alkadienes,C#CCCC,47.3,2.0
+trans 3-hexene,13269-52-8,alkenes,CC/C=C/CC,47.2,2.0
+2-octanol,123-96-6,saturated alcohols,CCCCCCC(C)O,46.1,2.0
+"2,2-dimethyl-3-pentanol",3970-62-5,saturated alcohols,CCC(O)C(C)(C)C,46.0,2.0
+trans 2-hexene,4050-45-7,alkenes,C/C=C/CCC,45.8,2.0
+2-ethyl-1-butene,760-21-4,alkenes,C=C(CC)CC,45.6,2.0
+cyclohexene,110-83-8,cyclic alkenes,C1=CCCCC1,45.6,2.0
+methyl-3-hexenoate,2396-78-3,unsaturated esters,CC/C=C/CC(=O)OC,45.3,2.0
+2-nonanone,821-55-6,saturated alkanone,CCCCCCCC(C)=O,45.1,2.0
+3-methyl-1-pentene,760-20-3,alkenes,C=CC(C)CC,45.1,2.0
+5-methyl-2-hexanol,627-59-8,saturated alcohols,CC(C)CCC(C)O,44.7,2.0
+cis 2-hexene,7688-21-3,alkenes,C/C=C\CCC,44.7,2.0
+1-tert-butoxy-2-propanol,57018-52-7,other multi-oxygen compounds,CC(O)COC(C)(C)C,44.0,2.0
+"2,3-dimethylbutane",79-29-8,linear alkanes,CC(C)C(C)C,44.0,2.0
+4-octanol,589-62-8,saturated alcohols,CCCCC(O)CCC,43.8,2.0
+nonanal,124-19-6,saturated aldehyde,CCCCCCCCC=O,43.7,2.0
+3-octanol,589-98-0,saturated alcohols,CCCCCC(O)CC,43.6,2.0
+isopentyl acetate,123-92-2,saturated esters,CC(=O)OCCC(C)C,43.6,2.0
+2-methyl-2-butene,513-35-9,alkenes,CC=C(C)C,43.5,2.0
+5-methyl-3-heptanone,541-85-5,saturated alkanone,CCC(=O)CC(C)CC,43.5,2.0
+"2,2-dimethylbutane",75-83-2,linear alkanes,CCC(C)(C)C,43.4,2.0
+butyl propionate,590-01-2,saturated esters,CCCCOC(=O)CC,43.3,2.0
+3-methylhexane,589-34-4,linear alkanes,CCCC(C)CC,43.0,2.0
+3-nonanone,925-78-0,saturated alkanone,CCCCCCC(=O)CC,43.0,2.0
+2-methyl-1-pentene,763-29-1,alkenes,C=C(C)CCC,42.9,2.0
+"4,4-dimethyl-2-pentanone",590-50-1,saturated alkanone,CC(=O)CC(C)(C)C,42.7,2.0
+cyclohexane,110-82-7,cyclic alkanes,C1CCCCC1,42.7,2.0
+"2,4-dimethyl-3-pentanone",565-80-0,saturated alkanone,CC(C)C(=O)C(C)C,42.6,2.0
+n-octane,111-65-9,linear alkanes,CCCCCCCC,42.6,2.0
+1-hexene,592-41-6,alkenes,C=CCCCC,42.4,2.0
+2-methylhexane,591-76-4,linear alkanes,CCCCC(C)C,42.4,2.0
+cyclohexanol,108-93-0,saturated alcohols,OC1CCCCC1,42.3,2.0
+4-methyl-2-pentanol,108-11-2,saturated alcohols,CC(C)CC(C)O,42.0,2.1
+methyl-2-methyl-2-pentenoate,1567-14-2,unsaturated esters,CCC=C(C)C(=O)OC,42.0,2.1
+"2,4-dimethyl-3-pentanol",600-36-2,saturated alcohols,CC(C)C(O)C(C)C,41.9,2.1
+2-methyl-2-hexanol,625-23-0,saturated alcohols,CCCCC(C)(C)O,41.8,2.1
+5-nonanone,502-56-7,saturated alkanone,CCCCC(=O)CCCC,41.8,2.1
+2-ethyl-1-butanol,97-95-0,saturated alcohols,CCC(CC)CO,41.7,2.1
+ethyl-4-pentenoate,1968-40-7,unsaturated esters,C=CCCC(=O)OCC,41.2,2.1
+1-octanol,111-87-5,saturated alcohols,CCCCCCCCO,41.1,2.1
+isobutyl propionate,540-42-1,saturated esters,CCC(=O)OCC(C)C,41.1,2.1
+"3,3-dimethyl-1-butanol",624-95-3,saturated alcohols,CC(C)(C)CCO,40.9,2.1
+"2,3-dimethyl-2-butanol",594-60-5,saturated alcohols,CC(C)C(C)(C)O,40.6,2.1
+"3,3-dimethyl-2-butanone",75-97-8,saturated alkanone,CC(=O)C(C)(C)C,40.6,2.1
+3-ethyl-3-pentanol,597-49-9,saturated alcohols,CCC(O)(CC)CC,40.5,2.1
+tert-butyl propionate,20487-40-5,saturated esters,CCC(=O)OC(C)(C)C,40.5,2.1
+"3,3-dimethyl-2-butanol",464-07-3,saturated alcohols,CC(O)C(C)(C)C,40.4,2.1
+pentyl acetate,628-63-7,saturated esters,CCCCCOC(C)=O,40.4,2.1
+cis 2-pentene,627-20-3,alkenes,C/C=C\CC,39.8,2.1
+ethyl-3-methyl-2-butenoate,638-10-8,unsaturated esters,CCOC(=O)C=C(C)C,39.5,2.1
+2-heptanol,543-49-7,saturated alcohols,CCCCCC(C)O,39.4,2.1
+cyclopentane,287-92-3,cyclic alkanes,C1CCCC1,39.4,2.1
+methyl-5-hexenoate,2396-80-7,unsaturated esters,C=CCCCC(=O)OC,39.2,2.1
+methyl octanoate,111-11-5,saturated esters,CCCCCCCC(=O)OC,38.9,2.1
+methyl-3-pentenoate,818-58-6,unsaturated esters,C/C=C/CC(=O)OC,38.8,2.1
+dibutyl ether,142-96-1,saturated ethers,CCCCOCCCC,38.7,2.1
+diisopropyl ether,108-20-3,saturated ethers,CC(C)OC(C)C,38.7,2.1
+3-heptanol,589-82-2,saturated alcohols,CCCCC(O)CC,38.5,2.1
+4-heptanol,589-55-9,saturated alcohols,CCCC(O)CCC,38.5,2.1
+"3,3-dimethylbutanal",2987-16-8,saturated aldehyde,CC(C)(C)CC=O,38.4,2.1
+3-methylpentane,96-14-0,linear alkanes,CCC(C)CC,38.2,2.1
+isopentyl formate,110-45-2,saturated esters,CC(C)CCOC=O,38.2,2.1
+methyl tert-amyl ether,994-05-8,saturated ethers,CCC(C)(C)OC,38.1,2.1
+methyl-2-methyl-2-butenoate,6622-76-0,unsaturated esters,C/C=C(/C)C(=O)OC,38.0,2.1
+2-octanone,111-13-7,saturated alkanone,CCCCCCC(C)=O,37.9,2.1
+tert-butyl ethyl ether,637-92-3,saturated ethers,CCOC(C)(C)C,37.9,2.1
+3-methyl-2-pentanol,565-60-6,saturated alcohols,CCC(C)C(C)O,37.7,2.1
+octanal,124-13-0,saturated aldehyde,CCCCCCCC=O,37.5,2.1
+propyl butyrate,105-66-8,saturated esters,CCCOC(=O)CCC,37.3,2.1
+propyl-2-methyl-2-propenoate,2210-28-8,unsaturated esters,C=C(C)C(=O)OCCC,37.1,2.1
+2-methylpentane,107-83-5,linear alkanes,CCCC(C)C,36.7,2.1
+2-ethylhexanal,123-05-7,saturated aldehyde,CCCCC(C=O)CC,36.6,2.1
+ethyl isopentanoate,108-64-5,saturated esters,CCOC(=O)CC(C)C,36.6,2.1
+2-methyl-2-pentanol,590-36-3,saturated alcohols,CCCC(C)(C)O,36.4,2.1
+methyl-3-methyl-2-butenoate,924-50-5,unsaturated esters,COC(=O)C=C(C)C,36.4,2.1
+3-methyl-1-pentanol,589-35-5,saturated alcohols,CCC(C)CCO,36.3,2.1
+isopropyl butyrate,638-11-9,saturated esters,CCCC(=O)OC(C)C,36.3,2.1
+3-octanone,106-68-3,saturated alkanone,CCCCCC(=O)CC,36.0,2.2
+butyl acetate,123-86-4,saturated esters,CCCCOC(C)=O,36.0,2.2
+n-heptane,142-82-5,linear alkanes,CCCCCCC,36.0,2.2
+2-methyl-3-hexanone,12/6/7379,saturated alkanone,CCCC(=O)C(C)C,35.9,2.2
+methyl-2-hexenoate,13894-63-8,unsaturated esters,CCC/C=C/C(=O)OC,35.9,2.2
+2-methyl-1-pentanol,105-30-6,saturated alcohols,CCCC(C)CO,35.8,2.2
+pentyl formate,638-49-3,saturated esters,CCCCCOC=O,35.7,2.2
+4-methyl-1-pentanol,626-89-1,saturated alcohols,CC(C)CCCO,35.6,2.2
+sec-butyl acetate,105-46-4,saturated esters,CCC(C)OC(C)=O,34.9,2.2
+isobutyl acetate,110-19-0,saturated esters,CC(=O)OCC(C)C,34.8,2.2
+1-heptanol,111-70-6,saturated alcohols,CCCCCCCO,34.7,2.2
+dipropyl carbonate,623-96-1,other multi-oxygen compounds,CCCOC(=O)OCCC,34.5,2.2
+cyclohexanone,108-94-1,saturated alkanone,O=C1CCCCC1,34.3,2.2
+2-hexanol,626-93-7,saturated alcohols,CCCCC(C)O,34.1,2.2
+ethyl-2-methyl-2-butenoate,5837-78-5,unsaturated esters,C/C=C(\C)C(=O)OCC,34.0,2.2
+3-hexanol,623-37-0,saturated alcohols,CCCC(O)CC,33.9,2.2
+heptanal,111-71-7,saturated aldehyde,CCCCCCC=O,33.8,2.2
+methyl-2-pentenoate,15790-88-2,unsaturated esters,CC/C=C/C(=O)OC,33.6,2.2
+3-methyl-2-butanol,598-75-4,saturated alcohols,CC(C)C(C)O,33.3,2.2
+methyl-4-pentenoate,818-57-5,unsaturated esters,C=CCCC(=O)OC,33.3,2.2
+3-methoxy-3-methyl-1-butanol,56539-66-3,other multi-oxygen compounds,COC(C)(C)CCO,33.2,2.2
+2-methyl-2-butanol,75-85-4,saturated alcohols,CCC(C)(C)O,32.9,2.2
+4-methyl-2-pentanone,108-10-1,saturated alkanone,CC(=O)CC(C)C,32.8,2.2
+tert-butyl acetate,540-88-5,saturated esters,CC(=O)OC(C)(C)C,32.7,2.2
+methyl heptanoate,106-73-0,saturated esters,CCCCCCC(=O)OC,32.5,2.2
+2-methyl-1-butanol,137-32-6,saturated alcohols,CCC(C)CO,32.3,2.2
+3-methyl-1-butanol,123-51-3,saturated alcohols,CC(C)CCO,31.9,2.2
+propyl propionate,106-36-5,saturated esters,CCCOC(=O)CC,31.9,2.2
+1-butoxy-2-propanol,5131-66-8,other multi-oxygen compounds,CCCCOCC(C)O,31.7,2.2
+methyl tert-butyl ether,1634-04-4,saturated ethers,COC(C)(C)C,31.5,2.2
+butyl formate,592-84-7,saturated esters,CCCCOC=O,31.0,2.3
+methyl trimethylacetate,598-98-1,saturated esters,COC(=O)C(C)(C)C,30.8,2.3
+2-methyl-3-pentanone,565-69-5,saturated alkanone,CCC(=O)C(C)C,30.7,2.3
+3-heptanone,106-35-4,saturated alkanone,CCCCC(=O)CC,30.7,2.3
+"2,2-dimethylpropanal",630-19-3,saturated aldehyde,CC(C)(C)C=O,30.6,2.3
+2-heptanone,110-43-0,saturated alkanone,CCCCCC(C)=O,30.4,2.3
+isobutyl formate,542-55-2,saturated esters,CC(C)COC=O,30.4,2.3
+n-hexane,110-54-3,linear alkanes,CCCCCC,30.4,2.3
+ethyl-2-butenoate,623-70-1,unsaturated esters,C/C=C/C(=O)OCC,30.3,2.3
+2-pentanol,6032-29-7,saturated alcohols,CCCC(C)O,30.2,2.3
+1-hexanol,111-27-3,saturated alcohols,CCCCCCO,30.0,2.3
+"2,2-dimethylbutyric acid",595-37-9,saturated esters,CCC(C)(C)C(=O)O,30.0,2.3
+propyl-2-propenoate,925-60-0,unsaturated esters,C=CC(=O)OCCC,30.0,2.3
+tert-butyl formate,762-75-4,saturated esters,CC(C)(C)OC=O,30.0,2.3
+ethyl 2-methylbutyrate,7452-79-1,saturated esters,CCOC(=O)C(C)CC,29.3,2.3
+3-pentanol,584-02-1,saturated alcohols,CCC(O)CC,29.1,2.3
+2-ethylbutanal,97-96-1,saturated aldehyde,CCC(C=O)CC,29.0,2.3
+3-methyl-2-pentanone,565-61-7,saturated alkanone,CCC(C)C(C)=O,29.0,2.3
+methyl-2-methyl-2-propenoate,80-62-6,unsaturated esters,C=C(C)C(=O)OC,29.0,2.3
+methyl sec-butyl ether,6795-87-5,saturated ethers,CCC(C)OC,28.6,2.3
+4-heptanone,123-19-3,saturated alkanone,CCCC(=O)CCC,28.5,2.3
+ethyl pentanoate,539-82-2,saturated esters,CCCCC(=O)OCC,28.4,2.3
+methyl isopentanoate,556-24-1,saturated esters,COC(=O)CC(C)C,28.4,2.3
+dipropyl ether,111-43-3,saturated ethers,CCCOCCC,28.0,2.3
+3-methylbutanal,590-86-3,saturated aldehyde,CC(C)CC=O,27.9,2.3
+2-methylpentanal,123-15-9,saturated aldehyde,CCCC(C)C=O,27.6,2.3
+tert-butanol,75-65-0,saturated alcohols,CC(C)(C)O,27.5,2.3
+"1,1-diethoxypropane",8/5/4744,other multi-oxygen compounds,CCOC(CC)OCC,27.3,2.4
+methyl-2-butenoate,623-43-8,unsaturated esters,C/C=C/C(=O)OC,27.3,2.4
+hexanal,66-25-1,saturated aldehyde,CCCCCC=O,26.7,2.4
+methyl hexanoate,106-70-7,saturated esters,CCCCCC(=O)OC,26.7,2.4
+3-methyl-2-butanone,563-80-4,saturated alkanone,CC(=O)C(C)C,26.6,2.4
+tetrahydropyran,142-68-7,cyclic saturated ethers,C1CCOCC1,26.5,2.4
+2-methyl-1-propanol,78-83-1,saturated alcohols,CC(C)CO,26.2,2.4
+ethyl isobutyrate,97-62-1,saturated esters,CCOC(=O)C(C)C,26.1,2.4
+2-ethylbutyric acid,88-09-5,saturated esters,CCC(CC)C(=O)O,25.9,2.4
+1-propoxy-2-propanol,1569-01-3,other multi-oxygen compounds,CCCOCC(C)O,25.8,2.4
+2-hexanone,591-78-6,saturated alkanone,CCCCC(C)=O,25.6,2.4
+2-isopropoxyethanol,109-59-1,other multi-oxygen compounds,CC(C)OCCO,25.5,2.4
+3-hexanone,589-38-8,saturated alkanone,CCCC(=O)CC,25.5,2.4
+ethyl butyrate,105-54-4,saturated esters,CCCC(=O)OCC,25.5,2.4
+1-pentanol,71-41-0,saturated alcohols,CCCCCO,25.4,2.4
+ethyl-2-methyl-2-propenoate,97-63-2,unsaturated esters,C=C(C)C(=O)OCC,25.4,2.4
+(S)-2-butanol,4221-99-2,saturated alcohols,CC[C@H](C)O,25.3,2.4
+2-butoxyethanol,111-76-2,other multi-oxygen compounds,CCCCOCCO,25.3,2.4
+(R)-2-butanol,14898-79-4,saturated alcohols,CC[C@@H](C)O,25.2,2.4
+methyl 2-methylbutyrate,868-57-5,saturated esters,CCC(C)C(=O)OC,24.9,2.4
+2-butanol,78-92-2,saturated alcohols,CCC(C)O,24.8,2.4
+n-pentane,109-66-0,linear alkanes,CCCCC,24.6,2.4
+propyl acetate,109-60-4,saturated esters,CCCOC(C)=O,24.4,2.4
+isopropyl acetate,108-21-4,saturated esters,CC(=O)OC(C)C,23.7,2.5
+methyl butyl ether,628-28-4,saturated ethers,CCCCOC,23.0,2.5
+2-methylbutanal,96-17-3,saturated aldehyde,CCC(C)C=O,22.7,2.5
+"1,1-diethoxyethane",105-57-7,other multi-oxygen compounds,CCOC(C)OCC,22.4,2.5
+methyl pentanoate,624-24-8,saturated esters,CCCCC(=O)OC,22.3,2.5
+methyl isobutyrate,547-63-7,saturated esters,COC(=O)C(C)C,22.2,2.5
+2-methoxytetrahydropyran,6581-66-4,cyclic saturated ethers,COC1CCCCO1,22.1,2.5
+1-butanol,71-36-3,saturated alcohols,CCCCO,22.0,2.5
+ethyl-2-propenoate,140-88-5,unsaturated esters,C=CC(=O)OCC,22.0,2.5
+isobutanal,78-84-2,saturated aldehyde,CC(C)C=O,21.2,2.5
+2-pentanone,107-87-9,saturated alkanone,CCCC(C)=O,21.1,2.5
+3-pentanone,96-22-0,saturated alkanone,CCC(=O)CC,21.1,2.5
+pentanal,110-62-3,saturated aldehyde,CCCCC=O,21.1,2.5
+"1,2-diethoxyethane",629-14-1,other multi-oxygen compounds,CCOCCOCC,20.4,2.6
+ethyl propionate,105-37-3,saturated esters,CCOC(=O)CC,20.3,2.6
+isopropyl formate,625-55-8,saturated esters,CC(C)OC=O,20.3,2.6
+propyl formate,110-74-7,saturated esters,CCCOC=O,20.3,2.6
+1-methoxy-2-butanol,53778-73-7,other multi-oxygen compounds,CCC(O)COC,19.8,2.6
+methyl-2-propenoate,96-33-3,unsaturated esters,C=CC(=O)OC,19.4,2.6
+2-propanol,67-63-0,saturated alcohols,CC(C)O,19.2,2.6
+"1,2-epoxybutane",106-88-7,cyclic saturated ethers,CCC1CO1,18.8,2.6
+isobutyric acid,79-31-2,saturated esters,CC(C)C(=O)O,18.8,2.6
+"1,2-dimethoxypropane",7778-85-0,other multi-oxygen compounds,COCC(C)OC,18.6,2.6
+methyl butyrate,623-42-7,saturated esters,CCCC(=O)OC,18.6,2.6
+diethoxymethane,462-95-3,other multi-oxygen compounds,CCOCOCC,18.5,2.6
+butyric acid,107-92-6,saturated esters,CCCC(=O)O,18.1,2.6
+methyl propyl ether,557-17-5,saturated ethers,CCCOC,18.0,2.6
+3-methoxy-1-propanol,1589-49-7,other multi-oxygen compounds,COCCCO,17.9,2.6
+butanal,123-72-8,saturated aldehyde,CCCC=O,17.6,2.6
+2-butanone,78-93-3,saturated alkanone,CCC(C)=O,17.2,2.7
+diethyl ether,60-29-7,saturated ethers,CCOCC,16.8,2.7
+1-methoxy-2-propanol,107-98-2,other multi-oxygen compounds,COCC(C)O,16.4,2.7
+"2,2-dimethoxypropane",77-76-9,other multi-oxygen compounds,COC(C)(C)OC,16.4,2.7
+1-propanol,71-23-8,saturated alcohols,CCCO,16.2,2.7
+diglyme,111-96-6,other multi-oxygen compounds,COCCOCCOC,16.1,2.7
+2-ethoxyethanol,110-80-5,other multi-oxygen compounds,CCOCCO,15.7,2.7
+diethyl carbonate,105-58-8,other multi-oxygen compounds,CCOC(=O)OCC,15.3,2.7
+2-(2-methoxyethoxy)-ethanol,111-77-3,other multi-oxygen compounds,COCCOCCO,15.0,2.7
+methyl propionate,554-12-1,saturated esters,CCC(=O)OC,15.0,2.7
+"1,1-dimethoxy-2-propanone",6342-56-9,other multi-oxygen compounds,COC(OC)C(C)=O,14.8,2.7
+tetramethoxymethane,1850-14-2,other multi-oxygen compounds,COC(OC)(OC)OC,14.8,2.7
+"1,1-dimethoxyethane",534-15-6,other multi-oxygen compounds,COC(C)OC,14.2,2.8
+propanal (propionaldehyde),123-38-6,saturated aldehyde,CCC=O,13.9,2.8
+"1,2-propanediol",57-55-6,other multi-oxygen compounds,CC(O)CO,13.7,2.8
+ethyl acetate,141-78-6,saturated esters,CCOC(C)=O,13.4,2.8
+2-propanone (acetone),67-64-1,saturated alkanone,CC(C)=O,13.0,2.8
+trimethoxymethane,149-73-5,other multi-oxygen compounds,COC(OC)OC,12.8,2.8
+"1,1,1-trimethoxyethane",1445-45-0,other multi-oxygen compounds,COC(C)(OC)OC,12.7,2.8
+"1,2-dimethoxyethane",110-71-4,other multi-oxygen compounds,COCCOC,11.8,2.8
+methyl acetate,79-20-9,saturated esters,COC(C)=O,11.7,2.8
+dimethoxymethane,109-87-5,other multi-oxygen compounds,COCOC,10.9,2.9
+dimethyl carbonate,616-38-6,other multi-oxygen compounds,COC(=O)OC,10.5,2.9
+"1,3-dioxolane",646-06-0,cyclic saturated ethers,C1COCO1,10.3,2.9
+ethanol,64-17-5,saturated alcohols,CCO,10.3,2.9
+2-hydroxy-methylpropionate,27871-49-4,other multi-oxygen compounds,COC(=O)[C@H](C)O,9.6,2.9
+ethyl formate,109-94-4,saturated esters,CCOC=O,9.2,2.9
+"1,2-ethanediol (ethylene glycol)",107-21-1,other multi-oxygen compounds,OCCO,8.2,3.0
+methanol,67-56-1,saturated alcohols,CO,6.6,3.0
+1-methyl-1-cyclohexene,591-49-1,cyclic alkenes,CC1=CCCCC1,62.0,3.0
+1-tert-butyl-1-cyclohexene,3419-66-7,cyclic alkenes,CC(C)(C)C1=CCCCC1,161.0,5.0
+1-phenyl-1-cyclohexene,771-98-2,cyclic alkenes,C1=C(c2ccccc2)CCCC1,468.0,14.0
+cyclooctene,931-88-4,cyclic alkenes,C1=C\CCCCCC/1,78.0,4.0
+3-methyl-1-cyclohexene,591-48-0,cyclic alkenes,CC1C=CCCC1,85.0,4.0
+4-methyl-1-cyclohexene,591-47-9,cyclic alkenes,CC1CC=CCC1,61.0,3.0
+cycloheptene,628-92-2,cyclic alkenes,C1=CCCCCC1,79.0,4.0
+cyclopentanone,120-92-3,cyclic ketone,O=C1CCCC1,22.0,4.0
+2-methyl-3-buten-2-ol,115-18-4,unsaturated alcohol,C=CC(C)(C)O,25.0,4.0
+"N,N-diethylethanamine",121-44-8,saturated amine,CCN(CC)CC,25.5,5.0
+diethylamine,109-89-7,saturated amine,CCNCC,13.2,5.0
+"N,N-dimethylbutylamine",927-62-8,saturated amine,CCCCN(C)C,26.1,5.0
+1-methylpiperidine,626-67-5,cyclic amine,CN1CCCCC1,27.9,5.0
+N-methylallylamine,627-37-2,unsaturated amine,C=CCNC,25.3,5.0
+N-ethylbutylamine,13360-63-9,saturated amine,CCCCNCC,22.1,5.0
+"2,4,6,8-tetraoxanonane",13353-03-2,polyoxymethylene ethers,COCOCOCOC,0.5,5.0
+"2,4,6,8,10-pentaoxaundecane",13352-75-5,polyoxymethylene ethers,COCOCOCOCOC,-2.5,5.0
+"2,4,6,8,10,12-hexaoxatridecane",13352-76-6,polyoxymethylene ethers,COCOCOCOCOCOC,-4.8,5.0
+dipropoxymethane,505-84-0,polyoxymethylene ethers,CCCOCOCCC,30.8,5.0
+2-methoxyethanol,109-86-4,POME-related compounds,COCCO,5.9,5.0
+diethylene glycol ,111-46-6,POME-related compounds,OCCOCCO,7.9,5.0
+diethylene glycol diethyl ether ,112-36-7,POME-related compounds,CCOCCOCCOCC,17.7,5.0
+tetraethyl orthocarbonate ,78-09-1,POME-related compounds,CCOC(OCC)(OCC)OCC,25.1,5.0
+"5,7,9-trioxatridecane",5614-25-5,polyoxymethylene ethers,CCCCOCOCOCCCC,42.7,5.0
+"5,7,9,11-tetraoxapentadecane",,polyoxymethylene ethers,CCCCOCOCOCOCCCC,37.8,5.0
+"3,5,7-trioxanonane",5648-29-3,polyoxymethylene ethers,CCOCOCOCC,13.8,2.0
+"3,5,7,9-tetraoxaundecane",4431-82-7,polyoxymethylene ethers,CCOCOCOCOCC,11.9,2.0
+"4,6,8-trioxaundecane",5614-31-3,polyoxymethylene ethers,CCCOCOCOCCC,25.5,2.0
+"4,6,8,10-tetraoxatridecane",4478-22-2,polyoxymethylene ethers,CCCOCOCOCOCCC,21.3,2.0
+furan,110-00-9,furan,c1ccoc1,24.4,1.2
+2-ethoxymethylfuran,6270-56-0,furan,CCOCc1ccco1,43.9,2.2
+2-hydroxymethyltetrahydrofuran,97-99-4,furan,OCC1CCCO1,16.9,0.9
+"1,2-pentanediol",5343-92-0,alcohol,CCCC(O)CO,23.1,1.2
+"1,5-pentanediol",111-29-5,alcohol,OCCCCCO,18.0,0.9
+phenol,108-95-2,phenol,Oc1ccccc1,81.3,4.065
+2-methoxyphenol,90-05-1,phenol,COc1ccccc1O,64.0,3.2
+3-methoxyphenol,150-19-6,phenol,COc1cccc(O)c1,64.1,3.205
+4-methoxyphenol,150-76-5,phenol,COc1ccc(O)cc1,54.9,2.745
+"2,3-dimethoxyphenol",5150-42-5,phenol,COc1cccc(O)c1OC,61.3,3.065
+"3,4-dimethoxyphenol",2033-89-8,phenol,COc1ccc(O)cc1OC,49.5,2.475
+"2,6-dimethoxyphenol",91-10-1,phenol,COc1cccc(OC)c1O,63.3,3.165
+"3,5-dimethoxyphenol",500-99-2,phenol,COc1cc(O)cc(OC)c1,50.8,2.54
+m-cresol,108-39-4,phenol,Cc1cccc(O)c1,107.0,5.35
+o-cresol,95-48-7,phenol,Cc1ccccc1O,101.9,5.095
+p-cresol,106-44-5,phenol,Cc1ccc(O)cc1,104.4,5.22
+2-ethylphenol,90-00-6,phenol,CCc1ccccc1O,118.9,5.945
+3-ethylphenol,620-17-7,phenol,CCc1cccc(O)c1,134.8,6.74
+4-ethylphenol,123-07-9,phenol,CCc1ccc(O)cc1,129.2,6.46
+resorcinol,108-46-3,phenol,Oc1cccc(O)c1,34.1,1.705
+4-methylcatechol,452-86-8,phenol,Cc1ccc(O)c(O)c1,104.0,5.2
+"ethyl 2,2-diethoxypropanoate",7476-20-2,esters,CCOC(=O)C(C)(OCC)OCC,27.524,2.0
+"isopentyl 2,2-bis(isopentyloxy)acetate",-,esters,CC(C)CCOC(=O)C(OCCC(C)C)OCCC(C)C,106.952,5.348
+R-limonene,5989-27-5,terpenes,C=C(C)[C@H]1CC=C(C)CC1,137.325,6.866
+"para-methane (limonane, 1-methyl-4-isopropylcyclohexane)",99-82-1,terpenes,CC1CCC(C(C)C)CC1,91.985,4.599
+sabinene,3387-41-5,terpenes,C=C1CCC2(C(C)C)CC12,203.716,10.186
+dihydrosabinene (thujane),471-12-5,terpenes,CC1CCC2(C(C)C)CC12,144.456,7.223
+"tetrahydrosabinene (1,3-dimethyl-3-isopropylcyclopentane)",-,terpenes,CC1CCC(C)(C(C)C)C1,104.871,5.244
+α-pinene,80-56-8,terpenes,CC1=CCC2CC1C2(C)C,207.124,10.356
+β-pinene,18172-67-3,terpenes,C=C1CC[C@H]2C[C@@H]1C2(C)C,136.906,6.845
+pinane,473-55-2,terpenes,CC1CCC2CC1C2(C)C,109.663,5.483
+3-carene,13466-78-9,terpenes,CC1=CCC2C(C1)C2(C)C,248.498,12.425
+dihydrocarene (carane),554-59-6,terpenes,CC1CCC2C(C1)C2(C)C,144.084,7.204
+"tetrahydrocarene (1,1,4-trimethylcycloheptane)",2158-55-6,terpenes,CC1CCCC(C)(C)CC1,99.086,4.954
+"1,4-dimethylcyclooctane",33657-56-6,terpenes,CC1CCCCC(C)CC1,84.741,4.237
+"1,8-cineole",470-82-6,terpenes,CC12CCC(CC1)C(C)(C)O2,110.962,5.548
+"1,4-cineole",470-67-7,terpenes,CC(C)C12CCC(C)(CC1)O2,104.569,5.228
+S-carvone,2244-16-8,terpenes,C=C(C)[C@H]1CC=C(C)C(=O)C1,126.424,6.321
+R-carvone,6485-40-1,terpenes,C=C(C)[C@@H]1CC=C(C)C(=O)C1,127.687,6.384
+myrcene,123-35-3,terpenes,C=CC(=C)CCC=C(C)C,103.6,5.18
+β-ocimene,13877-91-3,terpenes,C=CC(C)=CCC=C(C)C,213.625,10.681
+dihydromyrcene,2436-90-0,terpenes,C=CC(C)CCC=C(C)C,110.9,5.545
+geranial,5392-40-5,terpenes,CC(C)=CCCC(C)=CC=O,91.8,4.59
+geraniol,106-24-1,terpenes,CC(C)=CCCC(C)=CCO,103.7,5.185
+citronellal,106-23-0,terpenes,CC(C)=CCCC(C)CC=O,85.6,4.28
+carvacrol,499-75-2,terpenes,Cc1ccc(C(C)C)cc1O,193.1,9.655
+linalool,126-91-0,terpenes,C=CC(C)(O)CCC=C(C)C,98.0,4.9
+C10 (3-ethyl-4-methylheptane),-,linear alkanes,CCCC(C)C(CC)CC,67.6,3.38
+C18 (5-butyl-6-propylundecane),-,linear alkanes,CCCCCC(CCC)C(CCCC)CCCC,121.8,6.09
+C22 (7-butyl-6-pentyltridecane),-,linear alkanes,CCCCCCC(CCCC)C(CCCCC)CCCCC,133.1,6.655
